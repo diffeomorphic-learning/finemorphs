@@ -1,0 +1,7 @@
+pykeops
+numpy
+sklearn
+pandas
+scipy
+numba
+matplotlib
